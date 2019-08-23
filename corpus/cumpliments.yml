@@ -1,0 +1,53 @@
+categories:
+- cumpliments
+conversation:
+- - Ola
+  - Ola!
+- - Oi
+- - Ola!
+- - Ola
+  - Ola!
+- - Oi
+  - Oi!
+- - Ola
+  - Oi!
+  - Tudo bem?
+  - Sim e voce?
+  - Tambem
+  - Otimo!
+- - Oi
+  - Ola!
+  - Tudo bem?
+  - Sim e voce?
+  - Tambem
+  - Otimo!
+- - Tudo bem?
+  - Sim e voce?
+  - Tambem
+  - Otimo!
+- - Tudo bem?
+  - Sim
+  - Que bom!
+- - Tudo bem?
+  - Nao
+  - Poxa, melhoras!
+- - Como vai?
+  - Bem e voce?
+  - Vou bem tambem
+  - Otimo!
+- - Como vai?
+  - Bem
+  - Que bom
+- - Como vai?
+  - Ruim
+  - Que triste, melhoras!
+  - - Como esta?
+  - Bem e voce?
+  - Estou bem tambem
+  - Otimo!
+- - Como esta?
+  - Bem
+  - Que bom
+- - Como esta?
+  - Ruim
+  - Que triste, melhoras!
