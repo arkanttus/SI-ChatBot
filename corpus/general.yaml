@@ -1,0 +1,22 @@
+categories:
+    - general
+conversations:
+    - - [Ola, Eae, Oi]
+      - [
+            "Olá!",
+            "Eae!",
+            "Oi!"
+        ]
+      - ["De boas?", "Blz?"]
+      
+    - - ["Qual a grade do curso?", "Grade do curso", "Alguem tem a grade?"]
+      - "www.site-pao.com"
+    
+    - - ["Quantos periodos tem o curso?", "Quantidade de periodos", "Numero de periodos"]
+      - 8
+    
+    - - ["Quantos anos dura o curso?", "Duração do curso", "Me formo em quantos anos?", "Em quantos anos eu me formo?"]
+      - ["Se você não reprovar ou outra pandemia surgir, terminará em 4 anos :)", "4 a 7 anos"]
+      
+    - - Perguntou ?
+      - TEU PAI, "TUA MÃE", "TEU AVÔ"
