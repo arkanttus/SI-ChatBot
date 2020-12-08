@@ -1,5 +1,5 @@
 numpy==1.19.3
-PyYAML==3.13
+PyYAML==5.1
 chatterbot==1.0.8
 chatterbot-corpus==1.2.0
 pytz
