@@ -1,0 +1,8 @@
+numpy==1.19.3
+PyYAML==3.13
+chatterbot==1.0.8
+chatterbot-corpus==1.2.0
+pytz
+spacy
+discord.py==1.5.1
+python-dotenv==0.15.0
